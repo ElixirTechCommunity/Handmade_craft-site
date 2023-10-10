@@ -1,1 +1,2 @@
-# Handmade_craft-site
+# HandmadeCraft
+Online Storefront for Handmade Crafts
