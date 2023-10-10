@@ -26,7 +26,7 @@ Click on the link to register yourself [here](https://hacktoberfest.com/).
 
 ## CONTRIBUTING
 
-Please refer [CONTRIBUTIONS.md](contributing.md) to check our policies and practices.
+Please refer [CONTRIBUTING.md](contributing.md) to check our policies and practices.
 
 We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good-first-issue tag.
 
