@@ -1,5 +1,3 @@
-Netflix Clone 
-
 # Steps to create a pull request
 Star⭐️ and Fork this repository.
 
